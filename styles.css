@@ -1,0 +1,47 @@
+.main {
+    display:flex;
+    justify-content: center ;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+body{
+    background-color: rgb(90, 94, 142);
+}
+
+.par{
+    color-scheme: rgb(65, 14, 65);
+    background:color-mix(in hsl shorter hue, color percentage, color percentage)
+    padding: 5px ;
+}
+
+.label-bnt {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: %;
+    align-items: center;
+   
+
+
+
+
+}
+
+
+.input{
+   c:(65, 14, 65) ;
+  
+
+}
+
+.flex-container{
+    display:flex
+    flex-dir
+}
+
+
